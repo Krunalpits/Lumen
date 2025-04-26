@@ -1,2 +1,2 @@
 # Photo-Gallery
-PhotoGallery React App
+React PhotoGallery App
